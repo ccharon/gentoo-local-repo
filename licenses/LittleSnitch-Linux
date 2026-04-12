@@ -1,0 +1,66 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Little Snitch for Linux
+Upstream-Contact: Objective Development Software GmbH <obdev.at>
+Source: https://obdev.at/littlesnitch-linux
+
+Files: /var/lib/littlesnitch/*
+Copyright: 2026 Objective Development Software GmbH
+License: GPL-2.0-only
+
+Files: /usr/bin/littlesnitch
+Copyright: 2026 Objective Development Software GmbH
+License: LicenseRef-Obdev-Freeware
+
+License: GPL-2.0-only
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; version 2 of the License.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ GNU General Public License for more details.
+ .
+ On Debian systems, the full text of the GNU General Public License
+ version 2 is available in /usr/share/common-licenses/GPL-2.
+
+License: LicenseRef-Obdev-Freeware
+ Little Snitch for Linux daemon and command line tool — Proprietary Freeware License
+ .
+ Copyright 2026 Objective Development Software GmbH. All rights reserved.
+ .
+ GRANT OF USE
+ Permission is hereby granted, free of charge, to any person obtaining
+ a copy of this software (the "Software"), to use the Software for any
+ purpose, including personal and commercial use, without payment of
+ any fee.
+ .
+ REDISTRIBUTION
+ Redistribution of the Software is permitted provided that all of the
+ following conditions are met:
+ .
+  1. The Software is redistributed in its original, unmodified binary
+     form as provided by Objective Development Software GmbH.
+  2. This license text and all copyright notices are retained intact
+     and included with every copy or redistribution.
+  3. The Software is not sold as a standalone product. It may be included
+     in a larger distribution (for example, bundled with other software
+     or as part of an operating system package) provided no separate
+     fee is charged for the Software itself.
+ .
+ RESTRICTIONS
+ The following are expressly prohibited without prior written permission
+ from Objective Development Software GmbH:
+ .
+  - Modification of the Software binary or any part thereof.
+  - Sublicensing the Software or representing it as your own work.
+ .
+ NO WARRANTY
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+ OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+ NON-INFRINGEMENT. IN NO EVENT SHALL OBJECTIVE DEVELOPMENT SOFTWARE
+ GMBH BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN
+ AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 
